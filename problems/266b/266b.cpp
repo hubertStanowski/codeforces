@@ -1,7 +1,6 @@
-// A2OJ 11.3 - https://codeforces.com/problemset/problem/266/B
-
 #include <bits/stdc++.h>
 using namespace std;
+
 
 int main() {
     int n, t;

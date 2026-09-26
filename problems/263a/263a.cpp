@@ -1,7 +1,6 @@
-// A2OJ 11.2 - https://codeforces.com/problemset/problem/263/A
-
 #include <bits/stdc++.h>
 using namespace std;
+
 
 int main () {
     int n = 5;

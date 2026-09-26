@@ -1,5 +1,3 @@
-// A2OJ 11.1 - https://codeforces.com/problemset/problem/69/A
-
 #include <bits/stdc++.h>
 using namespace std;
 
