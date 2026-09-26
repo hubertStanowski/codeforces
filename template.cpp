@@ -36,13 +36,14 @@ typedef vector<int> vi;
 typedef vector<vi> vvi; 
 typedef pair<int,int> ii; 
 
-#define IOS ios_base::sync_with_stdio(0); //to synchronize the input of cin and scanf
 #define PI 3.1415926535897932384626
 
 // directions
 const int dirs[4][2] = {{0,1}, {0,-1}, {1,0}, {-1,0}};
 const int ddirs[8][2] = {{0,1}, {0,-1}, {1,0}, {-1,0}, {1,1}, {1,-1}, {-1,1}, {-1,-1}};
 
-int main() {
 
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 }
